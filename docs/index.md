@@ -1,11 +1,11 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Online Hotel Booking</title>
 </head>
-<body>
+<body align='justify'>
     <center><h1>Online Hotel Booking Client Application</h1></center>
     <h2><u>About</u></h2>
         Online Hotel Booking application is a client side application developed using java and Oracle database,
@@ -38,7 +38,7 @@ of the database is incorrect.<br>
 <br>
     <h2><u>Quick Glance</u></h2>
     <center><p>
-        <video width="1024" height="720" controls>
+        <video width="350" height="350" controls>
          <source src="res/Auberge-1.webm" type="video/webm">
        Your browser does not support the video tag.
        </video> 
