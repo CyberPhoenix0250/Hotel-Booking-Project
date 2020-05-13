@@ -6,6 +6,7 @@
     <title>Online Hotel Booking</title>
 </head>
 <body align='justify'>
+    <p align='justify'>
     <center><h1>Online Hotel Booking Client Application</h1></center>
     <h2><u>About</u></h2>
         Online Hotel Booking application is a client side application developed using java and Oracle database,
@@ -30,6 +31,7 @@ before launching just make sure that the Oracle Database service is running. If 
 If you are getting an Error as "Program was Unable to establish a connection with the Database. Please check whether
 the Database service is running or not." then either your Database service is not running or the username and password
 of the database is incorrect.
+</p>
 <br>
     <h2><u>Quick Glance</u></h2>
     <center><p>
